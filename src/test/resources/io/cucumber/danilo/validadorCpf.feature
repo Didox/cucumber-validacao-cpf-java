@@ -1,3 +1,4 @@
+@ignore
 Feature: Validator CPF
 
   Scenario: The CPF validator
